@@ -3,7 +3,7 @@ Thank you for downloading Lav: Full Week! I hope you enjoy playing it as much as
 
 # CREDITS
 -----------------------------------
-## OhSoVanilla - Art, Animation, Programming, Charting
+## OhSoVanilla - Team Lead, Art, Animation, Programming, Charting
 
 ### YouTube - (https://www.youtube.com/channel/UCxvGpzmmLMuuwJTVusa-yZg)
 ### Twitter - (https://twitter.com/OhSoVanilla64)
