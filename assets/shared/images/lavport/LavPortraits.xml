@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavPort10000" x="0" y="0" width="581" height="1033" frameX="0" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10001" x="0" y="0" width="581" height="1033" frameX="0" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10002" x="0" y="0" width="581" height="1033" frameX="-40" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10003" x="0" y="0" width="581" height="1033" frameX="-40" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10004" x="0" y="0" width="581" height="1033" frameX="-60" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10005" x="0" y="0" width="581" height="1033" frameX="-60" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10006" x="0" y="0" width="581" height="1033" frameX="-68" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort10007" x="0" y="0" width="581" height="1033" frameX="-68" frameY="0" frameWidth="649" frameHeight="1033"/>
+	<SubTexture name="LavPort20000" x="581" y="0" width="577" height="1027" frameX="0" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20001" x="581" y="0" width="577" height="1027" frameX="0" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20002" x="581" y="0" width="577" height="1027" frameX="-40" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20003" x="581" y="0" width="577" height="1027" frameX="-40" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20004" x="581" y="0" width="577" height="1027" frameX="-60" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20005" x="581" y="0" width="577" height="1027" frameX="-60" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20006" x="581" y="0" width="577" height="1027" frameX="-68" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort20007" x="581" y="0" width="577" height="1027" frameX="-68" frameY="0" frameWidth="645" frameHeight="1027"/>
+	<SubTexture name="LavPort30000" x="1158" y="0" width="580" height="1026" frameX="0" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30001" x="1158" y="0" width="580" height="1026" frameX="0" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30002" x="1158" y="0" width="580" height="1026" frameX="-40" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30003" x="1158" y="0" width="580" height="1026" frameX="-40" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30004" x="1158" y="0" width="580" height="1026" frameX="-60" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30005" x="1158" y="0" width="580" height="1026" frameX="-60" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30006" x="1158" y="0" width="580" height="1026" frameX="-68" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort30007" x="1158" y="0" width="580" height="1026" frameX="-68" frameY="0" frameWidth="648" frameHeight="1026"/>
+	<SubTexture name="LavPort40000" x="1738" y="0" width="442" height="954" frameX="0" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40001" x="1738" y="0" width="442" height="954" frameX="0" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40002" x="1738" y="0" width="442" height="954" frameX="-40" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40003" x="1738" y="0" width="442" height="954" frameX="-40" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40004" x="1738" y="0" width="442" height="954" frameX="-60" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40005" x="1738" y="0" width="442" height="954" frameX="-60" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40006" x="1738" y="0" width="442" height="954" frameX="-68" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort40007" x="1738" y="0" width="442" height="954" frameX="-68" frameY="0" frameWidth="510" frameHeight="954"/>
+	<SubTexture name="LavPort50000" x="2180" y="0" width="614" height="992" frameX="0" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50001" x="2180" y="0" width="614" height="992" frameX="0" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50002" x="2180" y="0" width="614" height="992" frameX="-40" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50003" x="2180" y="0" width="614" height="992" frameX="-40" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50004" x="2180" y="0" width="614" height="992" frameX="-60" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50005" x="2180" y="0" width="614" height="992" frameX="-60" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50006" x="2180" y="0" width="614" height="992" frameX="-68" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort50007" x="2180" y="0" width="614" height="992" frameX="-68" frameY="0" frameWidth="682" frameHeight="992"/>
+	<SubTexture name="LavPort60000" x="2794" y="0" width="436" height="880" frameX="0" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60001" x="2794" y="0" width="436" height="880" frameX="0" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60002" x="2794" y="0" width="436" height="880" frameX="-40" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60003" x="2794" y="0" width="436" height="880" frameX="-40" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60004" x="2794" y="0" width="436" height="880" frameX="-60" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60005" x="2794" y="0" width="436" height="880" frameX="-60" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60006" x="2794" y="0" width="436" height="880" frameX="-68" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort60007" x="2794" y="0" width="436" height="880" frameX="-68" frameY="0" frameWidth="504" frameHeight="880"/>
+	<SubTexture name="LavPort70000" x="0" y="1033" width="966" height="1083" frameX="0" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70001" x="0" y="1033" width="966" height="1083" frameX="0" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70002" x="0" y="1033" width="966" height="1083" frameX="-40" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70003" x="0" y="1033" width="966" height="1083" frameX="-40" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70004" x="0" y="1033" width="966" height="1083" frameX="-60" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70005" x="0" y="1033" width="966" height="1083" frameX="-60" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70006" x="0" y="1033" width="966" height="1083" frameX="-68" frameY="0" frameWidth="1034" frameHeight="1083"/>
+	<SubTexture name="LavPort70007" x="0" y="1033" width="966" height="1083" frameX="-68" frameY="0" frameWidth="1034" frameHeight="1083"/>
+</TextureAtlas>

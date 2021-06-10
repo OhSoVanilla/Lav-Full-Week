@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="testingsomemore.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavTiredDownFinal20000" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20001" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20002" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20003" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20004" x="1240" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20005" x="1860" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20006" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20007" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20008" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20009" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20010" x="1240" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20011" x="1860" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20012" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20013" x="0" y="0" width="620" height="727" frameX="0" frameY="-30" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20014" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20015" x="620" y="0" width="620" height="751" frameX="0" frameY="-4" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20016" x="1240" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredDownFinal20017" x="1860" y="0" width="620" height="756" frameX="0" frameY="0" frameWidth="620" frameHeight="757"/>
+	<SubTexture name="LavTiredIdleFinal0000" x="2480" y="0" width="513" height="882" frameX="-4" frameY="0" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0001" x="2993" y="0" width="517" height="881" frameX="0" frameY="0" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0002" x="3510" y="0" width="517" height="881" frameX="0" frameY="0" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0003" x="0" y="882" width="511" height="876" frameX="-6" frameY="-5" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0004" x="511" y="882" width="511" height="876" frameX="-6" frameY="-5" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0005" x="1022" y="882" width="531" height="875" frameX="-11" frameY="-6" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0006" x="1553" y="882" width="535" height="875" frameX="-11" frameY="-6" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0007" x="2088" y="882" width="526" height="877" frameX="-14" frameY="-4" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0008" x="2614" y="882" width="521" height="877" frameX="-14" frameY="-4" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0009" x="3135" y="882" width="515" height="868" frameX="-19" frameY="-13" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0010" x="0" y="1759" width="498" height="868" frameX="-19" frameY="-13" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0011" x="498" y="1759" width="495" height="873" frameX="-22" frameY="-8" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0012" x="993" y="1759" width="495" height="873" frameX="-22" frameY="-8" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0013" x="1488" y="1759" width="492" height="872" frameX="-25" frameY="-9" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0014" x="1980" y="1759" width="492" height="872" frameX="-25" frameY="-9" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0015" x="2472" y="1759" width="494" height="869" frameX="-23" frameY="-12" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0016" x="2966" y="1759" width="494" height="869" frameX="-23" frameY="-12" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0017" x="3460" y="1759" width="495" height="875" frameX="-22" frameY="-6" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredIdleFinal0018" x="0" y="2634" width="495" height="875" frameX="-22" frameY="-6" frameWidth="546" frameHeight="882"/>
+	<SubTexture name="LavTiredLeftFinal0000" x="495" y="2634" width="608" height="883"/>
+	<SubTexture name="LavTiredLeftFinal0001" x="495" y="2634" width="608" height="883"/>
+	<SubTexture name="LavTiredLeftFinal0002" x="1103" y="2634" width="581" height="883" frameX="-17" frameY="0" frameWidth="608" frameHeight="883"/>
+	<SubTexture name="LavTiredLeftFinal0003" x="1103" y="2634" width="581" height="883" frameX="-17" frameY="0" frameWidth="608" frameHeight="883"/>
+	<SubTexture name="LavTiredLeftFinal0004" x="1684" y="2634" width="550" height="883" frameX="-40" frameY="0" frameWidth="608" frameHeight="883"/>
+	<SubTexture name="LavTiredLeftFinal0005" x="2234" y="2634" width="495" height="883" frameX="-40" frameY="0" frameWidth="608" frameHeight="883"/>
+	<SubTexture name="LavTiredRight0000" x="2729" y="2634" width="577" height="819"/>
+	<SubTexture name="LavTiredUp0000" x="3306" y="2634" width="575" height="1073"/>
+</TextureAtlas>

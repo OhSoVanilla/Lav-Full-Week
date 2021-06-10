@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavPhase1.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lav Left instance 10000" x="0" y="0" width="304" height="576"/>
+	<SubTexture name="Lav Left instance 10001" x="0" y="0" width="304" height="576"/>
+	<SubTexture name="Lav Left instance 10002" x="304" y="0" width="298" height="576" frameX="-2" frameY="0" frameWidth="304" frameHeight="576"/>
+	<SubTexture name="Lav Left instance 10003" x="304" y="0" width="298" height="576" frameX="-2" frameY="0" frameWidth="304" frameHeight="576"/>
+	<SubTexture name="Lav Left instance 10004" x="602" y="0" width="292" height="576" frameX="-6" frameY="0" frameWidth="304" frameHeight="576"/>
+	<SubTexture name="Lav Left instance 10005" x="602" y="0" width="292" height="576" frameX="-6" frameY="0" frameWidth="304" frameHeight="576"/>
+	<SubTexture name="Lav Right instance 10000" x="894" y="0" width="434" height="571" frameX="0" frameY="0" frameWidth="437" frameHeight="571"/>
+	<SubTexture name="Lav Right instance 10001" x="894" y="0" width="434" height="571" frameX="0" frameY="0" frameWidth="437" frameHeight="571"/>
+	<SubTexture name="Lav Right instance 10002" x="1328" y="0" width="435" height="571" frameX="-1" frameY="0" frameWidth="437" frameHeight="571"/>
+	<SubTexture name="Lav Right instance 10003" x="1328" y="0" width="435" height="571" frameX="-1" frameY="0" frameWidth="437" frameHeight="571"/>
+	<SubTexture name="Lav Right instance 10004" x="0" y="576" width="437" height="571"/>
+	<SubTexture name="Lav Right instance 10005" x="0" y="576" width="437" height="571"/>
+	<SubTexture name="LavDown instance 10000" x="437" y="576" width="256" height="509" frameX="0" frameY="-15" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavDown instance 10001" x="437" y="576" width="256" height="509" frameX="0" frameY="-15" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavDown instance 10002" x="693" y="576" width="256" height="519" frameX="0" frameY="-8" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavDown instance 10003" x="693" y="576" width="256" height="519" frameX="0" frameY="-8" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavDown instance 10004" x="949" y="576" width="256" height="530" frameX="-1" frameY="0" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavDown instance 10005" x="949" y="576" width="256" height="530" frameX="-1" frameY="0" frameWidth="257" frameHeight="530"/>
+	<SubTexture name="LavR Legs instance 10000" x="1205" y="576" width="311" height="564" frameX="0" frameY="-13" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10001" x="1516" y="576" width="311" height="566" frameX="-3" frameY="-13" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10002" x="0" y="1147" width="309" height="573" frameX="-7" frameY="-9" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10003" x="309" y="1147" width="308" height="579" frameX="-10" frameY="-5" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10004" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10005" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10006" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10007" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10008" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10009" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10010" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10011" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10012" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavR Legs instance 10013" x="617" y="1147" width="307" height="586" frameX="-13" frameY="0" frameWidth="320" frameHeight="586"/>
+	<SubTexture name="LavUp instance 10000" x="924" y="1147" width="242" height="544" frameX="0" frameY="-9" frameWidth="242" frameHeight="554"/>
+	<SubTexture name="LavUp instance 10001" x="924" y="1147" width="242" height="544" frameX="0" frameY="-9" frameWidth="242" frameHeight="554"/>
+	<SubTexture name="LavUp instance 10002" x="1166" y="1147" width="242" height="550" frameX="0" frameY="-4" frameWidth="242" frameHeight="554"/>
+	<SubTexture name="LavUp instance 10003" x="1166" y="1147" width="242" height="550" frameX="0" frameY="-4" frameWidth="242" frameHeight="554"/>
+	<SubTexture name="LavUp instance 10004" x="1408" y="1147" width="242" height="554"/>
+	<SubTexture name="LavUp instance 10005" x="1408" y="1147" width="242" height="554"/>
+</TextureAtlas>

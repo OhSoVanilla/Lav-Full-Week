@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titlescreenanim.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="titlescreenanim0000" x="0" y="0" width="793" height="618" frameX="-2" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0001" x="793" y="0" width="791" height="618" frameX="-4" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0002" x="1584" y="0" width="793" height="618" frameX="-2" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0003" x="2377" y="0" width="728" height="618" frameX="-67" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0004" x="3105" y="0" width="731" height="770" frameX="-64" frameY="-151" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0005" x="0" y="770" width="696" height="891" frameX="-99" frameY="-30" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0006" x="696" y="770" width="692" height="921" frameX="-103" frameY="0" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0007" x="1388" y="770" width="651" height="910" frameX="-144" frameY="-11" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0008" x="2039" y="770" width="686" height="887" frameX="-109" frameY="-34" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0009" x="2725" y="770" width="687" height="909" frameX="-108" frameY="-12" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0010" x="1388" y="770" width="651" height="910" frameX="-144" frameY="-11" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0011" x="2039" y="770" width="686" height="887" frameX="-109" frameY="-34" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0012" x="2725" y="770" width="687" height="909" frameX="-108" frameY="-12" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0013" x="1388" y="770" width="651" height="910" frameX="-144" frameY="-11" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0014" x="2039" y="770" width="686" height="887" frameX="-109" frameY="-34" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0015" x="2725" y="770" width="687" height="909" frameX="-108" frameY="-12" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0016" x="1388" y="770" width="651" height="910" frameX="-144" frameY="-11" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0017" x="3412" y="770" width="605" height="874" frameX="-190" frameY="-47" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0018" x="0" y="1691" width="662" height="808" frameX="-133" frameY="-113" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0019" x="662" y="1691" width="708" height="819" frameX="-87" frameY="-102" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0020" x="1370" y="1691" width="706" height="860" frameX="-89" frameY="-61" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0021" x="2076" y="1691" width="697" height="870" frameX="-98" frameY="-51" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0022" x="2773" y="1691" width="680" height="876" frameX="-115" frameY="-45" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0023" x="0" y="2567" width="656" height="858" frameX="-139" frameY="-63" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0024" x="656" y="2567" width="620" height="828" frameX="-175" frameY="-93" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0025" x="1276" y="2567" width="605" height="789" frameX="-190" frameY="-132" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0026" x="1881" y="2567" width="605" height="648" frameX="-190" frameY="-273" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0027" x="2486" y="2567" width="605" height="618" frameX="-190" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0028" x="3091" y="2567" width="650" height="618" frameX="-145" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0029" x="0" y="3425" width="765" height="618" frameX="-30" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0030" x="765" y="3425" width="795" height="618" frameX="0" frameY="-303" frameWidth="795" frameHeight="921"/>
+	<SubTexture name="titlescreenanim0031" x="765" y="3425" width="795" height="618" frameX="0" frameY="-303" frameWidth="795" frameHeight="921"/>
+</TextureAtlas>

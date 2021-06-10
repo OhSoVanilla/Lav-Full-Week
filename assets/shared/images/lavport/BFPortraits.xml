@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFPort10000" x="0" y="0" width="849" height="1036" frameX="0" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10001" x="0" y="0" width="849" height="1036" frameX="0" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10002" x="0" y="0" width="849" height="1036" frameX="-27" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10003" x="0" y="0" width="849" height="1036" frameX="-27" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10004" x="0" y="0" width="849" height="1036" frameX="-40" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10005" x="0" y="0" width="849" height="1036" frameX="-40" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10006" x="0" y="0" width="849" height="1036" frameX="-45" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort10007" x="0" y="0" width="849" height="1036" frameX="-45" frameY="0" frameWidth="895" frameHeight="1036"/>
+	<SubTexture name="BFPort20000" x="849" y="0" width="833" height="1012" frameX="0" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20001" x="849" y="0" width="833" height="1012" frameX="0" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20002" x="849" y="0" width="833" height="1012" frameX="-27" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20003" x="849" y="0" width="833" height="1012" frameX="-27" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20004" x="849" y="0" width="833" height="1012" frameX="-40" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20005" x="849" y="0" width="833" height="1012" frameX="-40" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20006" x="849" y="0" width="833" height="1012" frameX="-45" frameY="0" frameWidth="879" frameHeight="1012"/>
+	<SubTexture name="BFPort20007" x="849" y="0" width="833" height="1012" frameX="-45" frameY="0" frameWidth="879" frameHeight="1012"/>
+</TextureAtlas>

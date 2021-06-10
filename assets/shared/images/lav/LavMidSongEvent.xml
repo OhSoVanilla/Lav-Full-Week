@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavMidSongEvent.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavMidSongEvent0000" x="0" y="0" width="208" height="576" frameX="-16" frameY="-10" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0001" x="0" y="0" width="208" height="576" frameX="-16" frameY="-10" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0002" x="208" y="0" width="208" height="576" frameX="-16" frameY="-10" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0003" x="416" y="0" width="208" height="576" frameX="-16" frameY="-10" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0004" x="624" y="0" width="208" height="577" frameX="-16" frameY="-9" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0005" x="832" y="0" width="208" height="579" frameX="-16" frameY="-7" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0006" x="1040" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0007" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0008" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0009" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0010" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0011" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0012" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0013" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0014" x="1248" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0015" x="1456" y="0" width="208" height="583" frameX="-16" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0016" x="1664" y="0" width="208" height="585" frameX="-13" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0017" x="1872" y="0" width="212" height="585" frameX="-9" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0018" x="2084" y="0" width="216" height="583" frameX="-5" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0019" x="2300" y="0" width="217" height="580" frameX="-4" frameY="-6" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0020" x="2517" y="0" width="213" height="578" frameX="-8" frameY="-8" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0021" x="2730" y="0" width="211" height="578" frameX="-10" frameY="-8" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0022" x="2941" y="0" width="208" height="579" frameX="-13" frameY="-7" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0023" x="3149" y="0" width="207" height="582" frameX="-15" frameY="-4" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0024" x="3356" y="0" width="208" height="584" frameX="-13" frameY="-2" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0025" x="3564" y="0" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0026" x="3782" y="0" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0027" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0028" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0029" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0030" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0031" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0032" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0033" x="0" y="585" width="218" height="583" frameX="-3" frameY="-3" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0034" x="218" y="585" width="218" height="584" frameX="-3" frameY="-2" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0035" x="436" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0036" x="654" y="585" width="220" height="586" frameX="-1" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0037" x="874" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0038" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0039" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0040" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0041" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0042" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0043" x="1095" y="585" width="221" height="586" frameX="0" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0044" x="1316" y="585" width="220" height="586" frameX="-1" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0045" x="1536" y="585" width="220" height="586" frameX="-1" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0046" x="1756" y="585" width="218" height="586" frameX="-3" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0047" x="1974" y="585" width="218" height="586" frameX="-3" frameY="0" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0048" x="2192" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0049" x="2410" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0050" x="2628" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0051" x="2628" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0052" x="2628" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+	<SubTexture name="LavMidSongEvent0053" x="2628" y="585" width="218" height="585" frameX="-3" frameY="-1" frameWidth="224" frameHeight="586"/>
+</TextureAtlas>

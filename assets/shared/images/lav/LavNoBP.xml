@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavNoBP.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavDownNoBP instance 10000" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10001" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10002" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10003" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10004" x="792" y="0" width="396" height="483"/>
+	<SubTexture name="LavDownNoBP instance 10005" x="1188" y="0" width="396" height="483"/>
+	<SubTexture name="LavDownNoBP instance 10006" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10007" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10008" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10009" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10010" x="792" y="0" width="396" height="483"/>
+	<SubTexture name="LavDownNoBP instance 10011" x="1188" y="0" width="396" height="483"/>
+	<SubTexture name="LavDownNoBP instance 10012" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10013" x="0" y="0" width="396" height="464" frameX="0" frameY="-19" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10014" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10015" x="396" y="0" width="396" height="480" frameX="0" frameY="-2" frameWidth="396" frameHeight="483"/>
+	<SubTexture name="LavDownNoBP instance 10016" x="792" y="0" width="396" height="483"/>
+	<SubTexture name="LavDownNoBP instance 10017" x="1188" y="0" width="396" height="483"/>
+	<SubTexture name="LavLeftNoBP instance 10000" x="1584" y="0" width="388" height="563"/>
+	<SubTexture name="LavLeftNoBP instance 10001" x="1584" y="0" width="388" height="563"/>
+	<SubTexture name="LavLeftNoBP instance 10002" x="1972" y="0" width="370" height="563" frameX="-12" frameY="0" frameWidth="388" frameHeight="563"/>
+	<SubTexture name="LavLeftNoBP instance 10003" x="1972" y="0" width="370" height="563" frameX="-12" frameY="0" frameWidth="388" frameHeight="563"/>
+	<SubTexture name="LavLeftNoBP instance 10004" x="2342" y="0" width="350" height="562" frameX="-26" frameY="-1" frameWidth="388" frameHeight="563"/>
+	<SubTexture name="LavLeftNoBP instance 10005" x="2692" y="0" width="316" height="562" frameX="-26" frameY="-1" frameWidth="388" frameHeight="563"/>
+	<SubTexture name="LavRightNoBP instance 10000" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10001" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10002" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10003" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10004" x="0" y="563" width="397" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10005" x="397" y="563" width="395" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10006" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10007" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10008" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10009" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10010" x="0" y="563" width="397" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10011" x="397" y="563" width="395" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10012" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10013" x="3008" y="0" width="407" height="539" frameX="-1" frameY="-2" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10014" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10015" x="3415" y="0" width="400" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10016" x="0" y="563" width="397" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavRightNoBP instance 10017" x="397" y="563" width="395" height="541" frameX="0" frameY="0" frameWidth="408" frameHeight="541"/>
+	<SubTexture name="LavIdleNoBP instance 10000" x="792" y="563" width="336" height="577" frameX="-2" frameY="0" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10001" x="1128" y="563" width="338" height="576" frameX="0" frameY="0" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10002" x="1466" y="563" width="338" height="576" frameX="0" frameY="0" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10003" x="1804" y="563" width="334" height="573" frameX="-4" frameY="-3" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10004" x="2138" y="563" width="334" height="573" frameX="-4" frameY="-3" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10005" x="2472" y="563" width="346" height="572" frameX="-9" frameY="-4" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10006" x="2818" y="563" width="348" height="572" frameX="-9" frameY="-4" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10007" x="3166" y="563" width="339" height="574" frameX="-14" frameY="-2" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10008" x="3505" y="563" width="336" height="574" frameX="-14" frameY="-2" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10009" x="0" y="1140" width="329" height="568" frameX="-20" frameY="-8" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10010" x="329" y="1140" width="318" height="568" frameX="-20" frameY="-8" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10011" x="647" y="1140" width="317" height="571" frameX="-21" frameY="-5" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10012" x="964" y="1140" width="317" height="571" frameX="-21" frameY="-5" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10013" x="1281" y="1140" width="318" height="571" frameX="-20" frameY="-5" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10014" x="1599" y="1140" width="318" height="571" frameX="-20" frameY="-5" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10015" x="1917" y="1140" width="323" height="568" frameX="-15" frameY="-8" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10016" x="2240" y="1140" width="323" height="568" frameX="-15" frameY="-8" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10017" x="2563" y="1140" width="323" height="572" frameX="-15" frameY="-4" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavIdleNoBP instance 10018" x="2886" y="1140" width="323" height="572" frameX="-15" frameY="-4" frameWidth="357" frameHeight="577"/>
+	<SubTexture name="LavUpNoBP instance 10000" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10001" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10002" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10003" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10004" x="0" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10005" x="358" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10006" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10007" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10008" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10009" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10010" x="0" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10011" x="358" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10012" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10013" x="3209" y="1140" width="357" height="566" frameX="0" frameY="0" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10014" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10015" x="3566" y="1140" width="354" height="565" frameX="-4" frameY="-2" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10016" x="0" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+	<SubTexture name="LavUpNoBP instance 10017" x="358" y="1712" width="358" height="560" frameX="-1" frameY="-8" frameWidth="359" frameHeight="568"/>
+</TextureAtlas>

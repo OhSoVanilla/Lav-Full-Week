@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funnyspritesheet2.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LavTiredDown instance 10000" x="0" y="0" width="636" height="733"/>
+	<SubTexture name="LavTiredIdleFinal instance 10000" x="636" y="0" width="470" height="808" frameX="-4" frameY="0" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10001" x="1106" y="0" width="474" height="808" frameX="0" frameY="0" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10002" x="1580" y="0" width="474" height="808" frameX="0" frameY="0" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10003" x="2054" y="0" width="468" height="803" frameX="-6" frameY="-5" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10004" x="2522" y="0" width="468" height="803" frameX="-6" frameY="-5" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10005" x="2990" y="0" width="488" height="802" frameX="-10" frameY="-6" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10006" x="3478" y="0" width="491" height="802" frameX="-10" frameY="-6" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10007" x="0" y="808" width="482" height="804" frameX="-13" frameY="-4" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10008" x="482" y="808" width="478" height="804" frameX="-13" frameY="-4" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10009" x="960" y="808" width="472" height="796" frameX="-18" frameY="-12" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10010" x="1432" y="808" width="456" height="796" frameX="-18" frameY="-12" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10011" x="1888" y="808" width="454" height="801" frameX="-20" frameY="-7" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10012" x="2342" y="808" width="454" height="801" frameX="-20" frameY="-7" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10013" x="2796" y="808" width="451" height="800" frameX="-23" frameY="-8" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10014" x="3247" y="808" width="451" height="800" frameX="-23" frameY="-8" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10015" x="0" y="1612" width="453" height="797" frameX="-21" frameY="-11" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10016" x="453" y="1612" width="453" height="797" frameX="-21" frameY="-11" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10017" x="906" y="1612" width="453" height="802" frameX="-21" frameY="-6" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredIdleFinal instance 10018" x="1359" y="1612" width="453" height="802" frameX="-21" frameY="-6" frameWidth="501" frameHeight="808"/>
+	<SubTexture name="LavTiredLeft instance 10000" x="1812" y="1612" width="461" height="800"/>
+	<SubTexture name="LavTiredRight instance 10000" x="2273" y="1612" width="532" height="756"/>
+	<SubTexture name="LavTiredUp instance 10000" x="2805" y="1612" width="526" height="982"/>
+</TextureAtlas>

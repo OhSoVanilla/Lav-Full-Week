@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavBackpackDrop.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lavbpdropanim0000" x="0" y="0" width="209" height="576" frameX="-12" frameY="-8" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0001" x="0" y="0" width="209" height="576" frameX="-12" frameY="-8" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0002" x="209" y="0" width="209" height="576" frameX="-12" frameY="-8" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0003" x="418" y="0" width="209" height="576" frameX="-12" frameY="-8" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0004" x="627" y="0" width="209" height="577" frameX="-12" frameY="-7" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0005" x="836" y="0" width="209" height="579" frameX="-12" frameY="-5" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0006" x="1045" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0007" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0008" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0009" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0010" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0011" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0012" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0013" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0014" x="1254" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0015" x="1463" y="0" width="209" height="583" frameX="-12" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0016" x="1672" y="0" width="209" height="584" frameX="-9" frameY="0" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0017" x="0" y="584" width="213" height="584" frameX="-5" frameY="0" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0018" x="213" y="584" width="217" height="582" frameX="-1" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0019" x="430" y="584" width="218" height="580" frameX="0" frameY="-4" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0020" x="648" y="584" width="214" height="577" frameX="-4" frameY="-7" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0021" x="862" y="584" width="211" height="577" frameX="-6" frameY="-7" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0022" x="1073" y="584" width="208" height="579" frameX="-9" frameY="-5" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0023" x="1281" y="584" width="207" height="581" frameX="-11" frameY="-3" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0024" x="1488" y="584" width="208" height="583" frameX="-9" frameY="-1" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0025" x="1696" y="584" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0026" x="0" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0027" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0028" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0029" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0030" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0031" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0032" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0033" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0034" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0035" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+	<SubTexture name="lavbpdropanim0036" x="217" y="1168" width="217" height="582" frameX="0" frameY="-2" frameWidth="221" frameHeight="584"/>
+</TextureAtlas>

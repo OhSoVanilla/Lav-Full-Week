@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lavPortsFinal.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdlePortrait0000" x="0" y="0" width="346" height="354"/>
+	<SubTexture name="LavConfusedPortrait0000" x="346" y="0" width="346" height="354"/>
+	<SubTexture name="LavEyebrowsPortrait0000" x="692" y="0" width="346" height="353"/>
+	<SubTexture name="LavHeadRight0000" x="1038" y="0" width="346" height="354"/>
+</TextureAtlas>

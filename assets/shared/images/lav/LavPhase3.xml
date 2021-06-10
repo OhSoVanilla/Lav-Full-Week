@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LavPhase3.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lav Idle instance 10000" x="0" y="0" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10001" x="505" y="0" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10002" x="1010" y="0" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10003" x="1540" y="0" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10004" x="2080" y="0" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10005" x="2640" y="0" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10006" x="3209" y="0" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10007" x="3782" y="0" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10008" x="4349" y="0" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10009" x="4895" y="0" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10010" x="5440" y="0" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10011" x="5945" y="0" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10012" x="6450" y="0" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10013" x="6980" y="0" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10014" x="7520" y="0" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10015" x="0" y="1090" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10016" x="569" y="1090" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10017" x="1142" y="1090" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10018" x="1709" y="1090" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10019" x="2255" y="1090" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10020" x="2800" y="1090" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10021" x="3305" y="1090" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10022" x="3810" y="1090" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10023" x="4340" y="1090" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10024" x="4880" y="1090" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10025" x="5440" y="1090" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10026" x="6009" y="1090" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10027" x="6582" y="1090" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10028" x="7149" y="1090" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10029" x="0" y="2180" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10030" x="545" y="2180" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10031" x="1050" y="2180" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10032" x="1555" y="2180" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10033" x="2085" y="2180" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10034" x="2625" y="2180" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10035" x="3185" y="2180" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10036" x="3754" y="2180" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10037" x="4327" y="2180" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10038" x="4894" y="2180" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10039" x="5440" y="2180" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10040" x="5985" y="2180" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10041" x="6490" y="2180" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10042" x="6995" y="2180" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10043" x="7525" y="2180" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10044" x="0" y="3270" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10045" x="560" y="3270" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10046" x="1129" y="3270" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10047" x="1702" y="3270" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10048" x="2269" y="3270" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10049" x="2815" y="3270" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10050" x="3360" y="3270" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10051" x="3865" y="3270" width="505" height="861" frameX="-50" frameY="-223" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10052" x="4370" y="3270" width="530" height="878" frameX="-41" frameY="-205" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10053" x="4900" y="3270" width="540" height="924" frameX="-31" frameY="-159" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10054" x="5440" y="3270" width="560" height="962" frameX="-15" frameY="-125" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10055" x="6000" y="3270" width="569" height="966" frameX="-8" frameY="-121" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10056" x="6569" y="3270" width="573" height="996" frameX="0" frameY="-95" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10057" x="7142" y="3270" width="567" height="1033" frameX="-2" frameY="-58" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10058" x="0" y="4360" width="546" height="1065" frameX="-4" frameY="-25" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Idle instance 10059" x="546" y="4360" width="545" height="1090" frameX="-5" frameY="0" frameWidth="577" frameHeight="1091"/>
+	<SubTexture name="Lav Left instance 10000" x="1091" y="4360" width="764" height="698" frameX="0" frameY="-39" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Left instance 10001" x="1855" y="4360" width="764" height="698" frameX="0" frameY="-39" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Left instance 10002" x="2619" y="4360" width="735" height="702" frameX="-40" frameY="-43" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Left instance 10003" x="3354" y="4360" width="811" height="704" frameX="-40" frameY="-41" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Left instance 10004" x="4165" y="4360" width="872" height="726" frameX="-81" frameY="-27" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Left instance 10005" x="5037" y="4360" width="887" height="753" frameX="-81" frameY="0" frameWidth="968" frameHeight="753"/>
+	<SubTexture name="Lav Right instance 10000" x="5924" y="4360" width="834" height="794" frameX="-276" frameY="-3" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Right instance 10001" x="6758" y="4360" width="834" height="794" frameX="-276" frameY="-3" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Right instance 10002" x="0" y="5450" width="803" height="803" frameX="-256" frameY="-2" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Right instance 10003" x="803" y="5450" width="902" height="803" frameX="-157" frameY="-2" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Right instance 10004" x="1705" y="5450" width="992" height="809" frameX="-50" frameY="0" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Right instance 10005" x="2697" y="5450" width="1042" height="809" frameX="0" frameY="0" frameWidth="1110" frameHeight="809"/>
+	<SubTexture name="Lav Up instance 10000" x="3739" y="5450" width="467" height="839" frameX="-20" frameY="-76" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="Lav Up instance 10001" x="4206" y="5450" width="464" height="950" frameX="-23" frameY="-76" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="Lav Up instance 10002" x="4670" y="5450" width="462" height="990" frameX="-17" frameY="-36" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="Lav Up instance 10003" x="5132" y="5450" width="479" height="1051" frameX="0" frameY="-36" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="Lav Up instance 10004" x="5611" y="5450" width="462" height="1119" frameX="-10" frameY="0" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="Lav Up instance 10005" x="6073" y="5450" width="454" height="1175" frameX="-18" frameY="0" frameWidth="487" frameHeight="1175"/>
+	<SubTexture name="LavDown instance 10000" x="6527" y="5450" width="425" height="763" frameX="-18" frameY="-376" frameWidth="443" frameHeight="1139"/>
+	<SubTexture name="LavDown instance 10001" x="6952" y="5450" width="422" height="864" frameX="-21" frameY="-275" frameWidth="443" frameHeight="1139"/>
+	<SubTexture name="LavDown instance 10002" x="7374" y="5450" width="420" height="901" frameX="-16" frameY="-205" frameWidth="443" frameHeight="1139"/>
+	<SubTexture name="LavDown instance 10003" x="0" y="6625" width="436" height="955" frameX="0" frameY="-151" frameWidth="443" frameHeight="1139"/>
+	<SubTexture name="LavDown instance 10004" x="436" y="6625" width="420" height="1017" frameX="-10" frameY="-51" frameWidth="443" frameHeight="1139"/>
+	<SubTexture name="LavDown instance 10005" x="856" y="6625" width="413" height="1068" frameX="-17" frameY="0" frameWidth="443" frameHeight="1139"/>
+</TextureAtlas>
