@@ -172,9 +172,9 @@ class TitleState extends MusicBeatState
 		// logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
 
-		gfDance = new FlxSprite(FlxG.width * 0.41, -100);
+		gfDance = new FlxSprite(FlxG.width * 0.41, -80);
 		gfDance.frames = Paths.getSparrowAtlas('titlescreenanim');
-		gfDance.animation.addByPrefix('loop', 'titlescreenanim', 24, false);
+		gfDance.animation.addByPrefix('loop', 'titlescreenanim', 26, false);
 		gfDance.antialiasing = true;
 		gfDance.setGraphicSize(Std.int(gfDance.frameWidth * 0.9));
 		add(gfDance);
