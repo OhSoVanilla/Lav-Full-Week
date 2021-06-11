@@ -3,7 +3,7 @@ Thank you for downloading Lav: Full Week! I hope you enjoy playing it as much as
 
 # CREDITS
 -----------------------------------
-## OhSoVanilla - Team Lead, Art, Animation, Programming, Charting
+## OhSoVanilla - Team Lead, Art, Animation, Charting
 
 ### YouTube - (https://www.youtube.com/channel/UCxvGpzmmLMuuwJTVusa-yZg)
 ### Twitter - (https://twitter.com/OhSoVanilla64)
@@ -16,7 +16,7 @@ Thank you for downloading Lav: Full Week! I hope you enjoy playing it as much as
 ### Twitch - (https://www.twitch.tv/rigormarcy)
 ### Twitter - (https://twitter.com/RigorMarcy)
 
-## SrPerez - Additional Programming/Took over for me because I'm a dummy
+## SrPerez - Programming
 ### YouTube - (https://www.youtube.com/channel/UC9UH64vUCZmJnCjHzTbNmug)
 ### Twitter - (https://twitter.com/NewSrPerez)
 
