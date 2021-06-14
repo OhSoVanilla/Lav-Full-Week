@@ -22,4 +22,4 @@ Thank you for downloading Lav: Full Week! I hope you enjoy playing it as much as
 
 # Shoutouts
 ------------------------------------
-Grayyto - Breaker - BTGGR - PMR - Elliot - GlitchyGelatinous
+grayyto - Breaker - BTGGR - PMR - Elliot - GlitchyGelatinous
