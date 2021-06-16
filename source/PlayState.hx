@@ -2285,8 +2285,8 @@ class PlayState extends MusicBeatState
 
 	public static var songRate = 1.5;
 	var rotBeat = 32;
-	var rotUpBeat = 38 * 4;
-	var rotEndBeat = 82 * 4 + 2;
+	var rotUpBeat = 36 * 4;
+	var rotEndBeat = 100 * 4;
 	var rotTime = 0;
 	var rotSpd:Float = 1;
 	var rotLen = 0.3;
