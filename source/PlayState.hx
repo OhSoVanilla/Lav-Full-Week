@@ -3014,24 +3014,40 @@ class PlayState extends MusicBeatState
 
 					epilState = 1;
 				case 1:
+
 					if (epilImg.alpha >= 1)
 					{
-						if (FlxG.keys.justReleased.ANY)
+						if (cs_black.alpha <= 0)
 						{
-							if (epilNum <epilAmmo)
+							if (FlxG.keys.justReleased.ANY)
 							{
-								epilNum ++;
-								epilImg.loadGraphic(Paths.image("lav/e/" + epilNum + "final"));
-							}
-							else
-							{
-								new FlxTimer().start(0.002, function(btmr:FlxTimer)
+								if (epilNum <epilAmmo)
 								{
-									cs_black.alpha += 0.005;
-									btmr.reset(0.002);
-								});
-								epilState = 2;
+									epilNum ++;
+									epilImg.loadGraphic(Paths.image("lav/e/" + epilNum + "final"));
+
+									switch epilNum
+									{
+										case 1:
+											cs_black.alpha = 1;
+										case 2:
+											cs_black.alpha = 0;
+									}
+								}
+								else
+								{
+									new FlxTimer().start(0.002, function(btmr:FlxTimer)
+									{
+										cs_black.alpha += 0.005;
+										btmr.reset(0.002);
+									});
+									epilState = 2;
+								}
 							}
+						}
+						else
+						{
+							cs_black.alpha -= 0.005;
 						}
 					}
 					else
@@ -3154,7 +3170,14 @@ class PlayState extends MusicBeatState
 						PlayState.SONG = Song.loadFromJson(PlayState.storyPlaylist[0].toLowerCase() + difficulty, PlayState.storyPlaylist[0]);
 						FlxG.sound.music.stop();
 
-						LoadingState.loadAndSwitchState(new PlayState());
+						if (SONG.song.toLowerCase() == "deam natura")
+						{
+							LoadingState.loadAndSwitchState(new VideoState('assets/videos/cutscene.webm', new PlayState()));
+						}
+						else
+						{
+							LoadingState.loadAndSwitchState(new PlayState());
+						}
 					}
 				}
 				else
