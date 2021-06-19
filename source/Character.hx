@@ -532,11 +532,11 @@ class Character extends FlxSprite
 				
 			case 'lavfinal':
 				frames = Paths.getSparrowAtlas('lav/LavPhase3');
-				animation.addByPrefix('idle', "Lav Idle instance", 6, false);
-				animation.addByPrefix('singUP', "Lav Up instance", 12, false);
-				animation.addByPrefix('singDOWN', "LavDown instance",  12, false);
-				animation.addByPrefix('singLEFT', "Lav Left instance", 12, false);
-				animation.addByPrefix('singRIGHT', "Lav Right instance", 12, false);
+				animation.addByPrefix('idle', "Lav Idle", 6, false);
+				animation.addByPrefix('singUP', "Lav Up", 12, false);
+				animation.addByPrefix('singDOWN', "LavDown",  12, false);
+				animation.addByPrefix('singLEFT', "Lav Left", 12, false);
+				animation.addByPrefix('singRIGHT', "Lav Right", 12, false);
 				
 				addOffset('idle');
 				addOffset("singUP");
