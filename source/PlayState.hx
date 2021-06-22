@@ -3026,9 +3026,18 @@ class PlayState extends MusicBeatState
 									epilNum ++;
 									epilImg.loadGraphic(Paths.image("lav/e/" + epilNum + "final"));
 
+									var snd = cs_sounds[epilNum];
+									if (snd != '')
+									{
+										cs_sound = FlxG.sound.load(Paths.sound('Comic/' + snd));
+										cs_sound.play();
+									}
 									switch epilNum
 									{
 										case 1:
+											cs_mus = FlxG.sound.load(Paths.sound('Comic/snowstorm'));
+											cs_mus.play();
+											cs_mus.looped = true;
 											cs_black.alpha = 1;
 										case 2:
 											cs_black.alpha = 0;
@@ -3069,6 +3078,22 @@ class PlayState extends MusicBeatState
 	var epilImg:FlxSprite;
 	var epilAmmo = 29;
 	var cs_black:FlxSprite;
+	var cs_mus:FlxSound;
+	var cs_sound:FlxSound;
+	var cs_sounds:Array<String> = [
+		'', '', '', '',
+		'footstep',
+		'fall', '',
+		'touch', '',
+		'bfbeep2', '', '',
+		'chrisfootstep1', '',
+		'touch',
+		'chrisfootstep2', '', '',
+		'footstep',
+		'bfbeep1', '', '', '',
+		'bfbeep3', '', '', '', '', '',
+		'chrisfootstep3'
+	];
 
 	function endSong():Void
 	{
