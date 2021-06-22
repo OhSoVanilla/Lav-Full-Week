@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cameos.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cameos0000" x="10" y="10" width="397" height="441"/>
+	<SubTexture name="cameos0001" x="407" y="10" width="397" height="441"/>
+	<SubTexture name="cameos0002" x="804" y="10" width="397" height="441"/>
+	<SubTexture name="cameos0003" x="1201" y="10" width="397" height="441"/>
+	<SubTexture name="cameos0004" x="1598" y="10" width="397" height="441"/>
+	<SubTexture name="cameos0005" x="10" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0006" x="407" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0007" x="407" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0008" x="804" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0009" x="804" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0010" x="1201" y="451" width="397" height="441"/>
+	<SubTexture name="cameos0011" x="1201" y="451" width="397" height="441"/>
+</TextureAtlas>

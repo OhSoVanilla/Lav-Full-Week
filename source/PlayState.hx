@@ -214,6 +214,8 @@ class PlayState extends MusicBeatState
 
 	private var executeModchart = false;
 
+	var cameos:FlxSprite;
+
 	// LUA SHIT
 	
 	#if cpp
@@ -819,6 +821,18 @@ class PlayState extends MusicBeatState
 				bg.updateHitbox();
 				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
+
+				if (ext_snowman)
+				{
+					cameos = new FlxSprite(460, 300);
+					cameos.frames = Paths.getSparrowAtlas("lav/cameos");
+					cameos.animation.addByPrefix('dance', 'cameos', 24);
+					cameos.animation.play('dance');
+					cameos.updateHitbox();
+					cameos.antialiasing = true;
+					cameos.scrollFactor.set(0.9, 0.9);
+					add(cameos);
+				}
 
 			case 'nature old':
 			{
@@ -2382,29 +2396,32 @@ class PlayState extends MusicBeatState
 				dad.y = 550 + Math.sin(rotTime / 40 * rotSpd) * 80 * rotLen;
 				rotTime ++;
 
-				if (curBeat < rotBeat)
+				if (SONG.song.toLowerCase() == 'deam natura')
 				{
-					defaultCamZoom = 0.8;
-				}
-				else if (curBeat < rotUpBeat)
-				{
-					rotLen += (1 - rotLen) / 12;
-					defaultCamZoom = 0.75;
-					rotSpd = 1.2;
-				}
-				else if (curBeat < rotEndBeat)
-				{
-					rotSpd = 1.7;
-					rotLen += (0.75 - rotLen) / 12;
-					rotXLen += (0.6 - rotXLen) / 12;
-					defaultCamZoom = 0.7;
-				}
-				else
-				{
-					rotLen += (0.2 - rotLen) / 12;
-					rotXLen += (0 - rotXLen) / 12;
-					rotSpd = 0.8;
-					defaultCamZoom = 0.8;
+					if (curBeat < rotBeat)
+					{
+						defaultCamZoom = 0.8;
+					}
+					else if (curBeat < rotUpBeat)
+					{
+						rotLen += (1 - rotLen) / 12;
+						defaultCamZoom = 0.75;
+						rotSpd = 1.2;
+					}
+					else if (curBeat < rotEndBeat)
+					{
+						rotSpd = 1.7;
+						rotLen += (0.75 - rotLen) / 12;
+						rotXLen += (0.6 - rotXLen) / 12;
+						defaultCamZoom = 0.7;
+					}
+					else
+					{
+						rotLen += (0.2 - rotLen) / 12;
+						rotXLen += (0 - rotXLen) / 12;
+						rotSpd = 0.8;
+						defaultCamZoom = 0.8;
+					}
 				}
 		}
 
@@ -2540,7 +2557,7 @@ class PlayState extends MusicBeatState
 		var lowSong = curSong.toLowerCase();
 		if (lowSong == 'deam natura' || lowSong == 'deam natura old')
 		{
-			if (curBeat < rotBeat)
+			if (curStep < 1344)
 			{
 				lavTrail.alpha = 0;
 			}
