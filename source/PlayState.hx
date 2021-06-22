@@ -794,50 +794,32 @@ class PlayState extends MusicBeatState
 					add(bgGirls);
 			}
 			
-			case 'nature':
-			{
+			case 'nature' | 'tempting' | 'deam natura':
 				curStage = 'lavStage';
 					
-					defaultCamZoom = 1.00;
+				defaultCamZoom = 0.8;
 				
-					var bg:FlxSprite = new FlxSprite(0, 0);
-					bg.loadGraphic(Paths.image("lav/meadow"));
-					add(bg);
-					bg.active = false;
-					bg.updateHitbox();
-					bg.antialiasing = true;
-					bg.scrollFactor.set(0.9, 0.9);
-			}
-			
-			case'tempting':
-			{
-				curStage = 'lavStage';
-				
-					defaultCamZoom = 1.00;
-				
-					var bg:FlxSprite = new FlxSprite(0, 0);
-					bg.loadGraphic(Paths.image("lav/meadow2"));
-					add(bg);
-					bg.active = false;
-					bg.updateHitbox();
-					bg.antialiasing = true;
-					bg.scrollFactor.set(0.9, 0.9);
-			}
-			
-			case'deam natura':
-			{
-				curStage = 'lavStage';
-				
-					defaultCamZoom = 1.00;
-				
-				var bg:FlxSprite = new FlxSprite(0, 0);
-				bg.loadGraphic(Paths.image("lav/meadow"));
+				var bg_str = 'Daytime';
+				var ext_snowman = false;
+
+				switch (SONG.song.toLowerCase())
+				{
+					case 'nature':
+						ext_snowman = true;
+					case 'tempting':
+						bg_str = 'Afternoon';
+					case 'deam natura':
+						bg_str = 'Night';
+				}
+
+				var bg:FlxSprite = new FlxSprite(0, -70);
+				bg.loadGraphic(Paths.image("lav/BG-" + bg_str));
 				add(bg);
 				bg.active = false;
 				bg.updateHitbox();
 				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
-			}
+
 			case 'nature old':
 			{
 				curStage = 'lavStage';
@@ -2402,12 +2384,12 @@ class PlayState extends MusicBeatState
 
 				if (curBeat < rotBeat)
 				{
-					defaultCamZoom = 0.9;
+					defaultCamZoom = 0.8;
 				}
 				else if (curBeat < rotUpBeat)
 				{
 					rotLen += (1 - rotLen) / 12;
-					defaultCamZoom = 0.8;
+					defaultCamZoom = 0.75;
 					rotSpd = 1.2;
 				}
 				else if (curBeat < rotEndBeat)
@@ -2415,7 +2397,7 @@ class PlayState extends MusicBeatState
 					rotSpd = 1.7;
 					rotLen += (0.75 - rotLen) / 12;
 					rotXLen += (0.6 - rotXLen) / 12;
-					defaultCamZoom = 0.74;
+					defaultCamZoom = 0.7;
 				}
 				else
 				{
